@@ -1,6 +1,6 @@
-# CS-552 MNLP 2024 Project M2 & M3 Description (Code Part)
+The work in this project was done as part of the MNLP course at EPFL by: Stefan Krsteski, Mikhail Terekhov, Said Gürbüz, Matea Tashkovska 
 
-## Project Description (Code Part)
+## Project Description 
 
 - In this project, we developed large language models (LLMs) capable of communicating with humans and assisting with various tasks. Exploring various frontier methods to apply LLMs in real-world applications, including Direct Preference Optimization (DPO), Retrieval-Augmented Generation (RAG), and model quantization.
 
